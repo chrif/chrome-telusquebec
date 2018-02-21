@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Telus Quebec website enhancement",
+  "description": "This extension enriches user experience on the Telus Quebec website.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.telusquebec.com/fr/espace-client/internet*",
+        "https://www.telusquebec.com/en/espace-client/internet*"
+      ],
+      "js": ["daily-average.js"]
+    }
+  ]
+}
