@@ -37,12 +37,11 @@ function localFloat(float) {
 
 function displayAverageDailyUsage() {
     var total = totalElement().innerHTML.replace(',', '.');
-    var days = document.querySelectorAll('div[data-amount-total]').length;
+    var days = document.querySelectorAll('div.bar[data-amount-total]').length;
     var container = document.querySelector('div.details-chart-data div.data-numbers');
-    var average = (
-        total /
-        days
-    );
+
+    var average = total > 0 && days > 0 ? total / days : total;
+
     container.innerHTML += " (" + localFloat(average) + " " + dailyLabel() + ")";
 }
 
