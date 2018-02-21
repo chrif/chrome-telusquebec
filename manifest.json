@@ -4,7 +4,6 @@
   "name": "Telus Quebec website enhancement",
   "description": "This extension enriches user experience on the Telus Quebec website.",
   "version": "1.0",
-
   "content_scripts": [
     {
       "matches": [
