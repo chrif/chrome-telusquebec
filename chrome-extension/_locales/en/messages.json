@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Enhancements to an ISP's website (Telus)",
+    "description": "Enhancements to an ISP's website (Telus)"
+  },
+  "appDesc": {
+    "message": "This extension enriches user experience on the website of an ISP from Quebec (Telus). This extension is not approved by Telus.",
+    "description": "This extension enriches user experience on the website of an ISP from Quebec (Telus). This extension is not approved by Telus."
+  }
+}

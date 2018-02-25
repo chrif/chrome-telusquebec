@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  package:
+    build: .
+    image: chrome-telusquebec
+    command: ["sh", "build/package.sh"]
+    volumes:
+      - .:/opt/project
+    working_dir: /opt/project
