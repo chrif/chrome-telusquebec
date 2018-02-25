@@ -1,2 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+chrome-extension.*
+/client_secret.json
+/credentials.json
+/vendor/
+composer.phar
