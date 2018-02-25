@@ -1,9 +1,8 @@
-# Enhancements to an ISP's website (Telus)
+# Enhancements to TELUS Quebec website (unofficial)
 
 ## Chrome extension
 
-This extension enriches user experience on the website of an ISP from Quebec (Telus). 
-This extension is not approved by Telus.
+This extension enriches user experience on the website of an ISP from Quebec (TELUS). This extension is not approved by TELUS.
 
 ### Features
 

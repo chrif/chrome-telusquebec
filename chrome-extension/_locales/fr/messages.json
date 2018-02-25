@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "Améliorations au site d'un FAI québécois (Telus)"
+    "message": "Améliorations au site web de TELUS Québec (non officel)"
   },
   "appDesc": {
-    "message": "Cette extension améliore l'expérience utilisateur du site web d'un fournisseur d'accès à Internet québécois (Telus). Ce n'est pas une extension approuvée par Telus."
+    "message": "Cette extension améliore l'expérience utilisateur du site web d'un fournisseur d'accès à Internet québécois (TELUS). Ce n'est pas une extension autorisée par TELUS."
   }
 }
