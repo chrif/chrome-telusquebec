@@ -1,4 +1,4 @@
-# Enhancements to TELUS Quebec website (unofficial)
+# Enhancements to TELUS Quebec (unofficial)
 
 ## Chrome extension
 
