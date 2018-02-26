@@ -1,8 +1,9 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea
-/client_secret.json
-/credentials.json
-/vendor/
-composer.phar
 /.env
+/.env-override
 /chrome-extension/manifest.json
+/client_secret.json
+/composer.phar
+/credentials.json
+/docker-compose.override.yml
+/vendor/

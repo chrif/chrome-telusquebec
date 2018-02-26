@@ -17,3 +17,5 @@ you are on target to not exceed your bandwidth usage for the current month.
 
 * This code is [MIT licensed](LICENSE) open source.
 * Icon from [EmojiOne](http://emojione.com/), licensed CC-BY 4.0.
+* Project directory structure inspired by [https://github.com/gilmoreorless/convert-airport-codes](https://github.com/gilmoreorless/convert-airport-codes)
+* Web template by [https://github.com/BlackrockDigital/startbootstrap-new-age](https://github.com/BlackrockDigital/startbootstrap-new-age)

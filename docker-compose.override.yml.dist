@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  web:
+    volumes:
+      - .:/opt/project
+    labels:
+      - "traefik.frontend.rule=Host:mtq.chrif.local"
