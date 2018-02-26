@@ -6,3 +6,4 @@ chrome-extension.*
 /vendor/
 composer.phar
 /.env
+/chrome-extension/manifest.json

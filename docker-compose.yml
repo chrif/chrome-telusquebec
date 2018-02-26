@@ -4,7 +4,7 @@ services:
   package:
     build: .
     image: chrome-telusquebec
-    command: ["sh", "docker/package.sh"]
+    command: ["sh", "src/package.sh"]
     volumes:
       - .:/opt/project
     env_file:
