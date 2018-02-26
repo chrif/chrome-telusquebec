@@ -2,10 +2,35 @@ version: '3'
 
 services:
   package:
-    build: .
-    image: chrome-telusquebec
+    build: docker/build
     command: ["sh", "src/package.sh"]
     volumes:
       - .:/opt/project
     env_file:
       - .env
+
+  web:
+    build:
+      context: .
+      dockerfile: docker/web/Dockerfile
+    labels:
+      - "traefik.docker.network=traefik"
+      - "traefik.enable=true"
+      - "traefik.frontend.rule=Host:mtq.chrif.org"
+      - "traefik.port=80"
+    volumes:
+      - src:/opt/project
+      - log:/opt/log
+    networks:
+      - traefik
+      - default
+
+volumes:
+  src:
+  log:
+    external:
+      name: mtqlog
+
+networks:
+  traefik:
+    external: true
