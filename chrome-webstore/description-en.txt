@@ -1,7 +1,6 @@
 Features
 
-* Displays average daily usage next to the total monthly usage in the detailed usage chart. This allows to know if
-you are on target to not exceed your bandwidth usage for the current month.
+* Displays average daily usage next to the total monthly usage in the detailed usage chart. This allows to know if you are on target to not exceed your bandwidth usage for the current month.
 
 For source code and to report issues, please visit:
 github.com/chrif/chrome-telusquebec

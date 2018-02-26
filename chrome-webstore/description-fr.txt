@@ -1,7 +1,6 @@
 Fonctionnalités
 
-* Affiche la valeur moyenne d'utilisation quotidienne pour le mois en cours. Ceci vous permet de savoir
-si vous êtes en voie d'excéder votre limite mensuelle.
+* Affiche la valeur moyenne d'utilisation quotidienne pour le mois en cours. Ceci vous permet de savoir si vous êtes en voie d'excéder votre limite mensuelle.
 
 Pour voir le code source et pour rapporter des bogues, veuillez visiter:
 github.com/chrif/chrome-telusquebec
