@@ -6,9 +6,10 @@ This extension enriches user experience on the website of an ISP from Quebec (TE
 
 ### Features
 
-* Displays average daily usage next to the total monthly usage in the detailed usage chart.
+* Displays average daily usage next to the total monthly usage in the detailed usage chart. This allows to know if 
+you are on target to not exceed your bandwidth usage for the current month.
 
-![Example screenshot of using the Chrome extension](chrome-webstore/daily-average.png)
+	![Example screenshot of using the Chrome extension](chrome-webstore/daily-average.png)
 
 ## Credits
 
