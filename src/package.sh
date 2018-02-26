@@ -8,5 +8,5 @@ convert chrome-webstore/icon.png -resize 128x128  chrome-extension/icons/icon-12
 
 php src/manifest.php > chrome-extension/manifest.json
 cp LICENSE chrome-extension
-zip -r chrome-extension-${VERSION}.zip chrome-extension -x \*\/.DS_Store
+zip -r var/chrome-extension-${VERSION}.zip chrome-extension -x \*\/.DS_Store
 rm -f chrome-extension/LICENSE

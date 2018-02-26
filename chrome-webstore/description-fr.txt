@@ -4,4 +4,6 @@ Fonctionnalités
 si vous êtes en voie d'excéder votre limite mensuelle.
 
 Pour voir le code source et pour rapporter des bogues, veuillez visiter:
-https://github.com/chrif/chrome-telusquebec
+github.com/chrif/chrome-telusquebec
+
+Cette extension n'est pas autorisée par TELUS.
