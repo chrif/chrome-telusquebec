@@ -4,4 +4,6 @@ Features
 you are on target to not exceed your bandwidth usage for the current month.
 
 For source code and to report issues, please visit:
-https://github.com/chrif/chrome-telusquebec
+github.com/chrif/chrome-telusquebec
+
+This extension is not authorized by TELUS.
