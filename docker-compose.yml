@@ -13,6 +13,7 @@ services:
     build:
       context: .
       dockerfile: docker/web/Dockerfile
+    restart: always
     labels:
       - "traefik.docker.network=traefik"
       - "traefik.enable=true"
